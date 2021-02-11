@@ -1,0 +1,7 @@
+wheel
+jupyter
+matplotlib
+seaborn
+plotly
+pandas
+numpy
